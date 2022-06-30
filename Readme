@@ -1,2 +1,11 @@
 TPI de la materia Sistemas Operativos de Tercer año de la carrera Ingeniera en Sistemas de Informacion. 
 Enunciado:
+  Se solicita realizar un simulador de asignacion de memoria y planificacion, como su nombre lo indica se desea simular la 
+  forma en que el SO asigna la memoria a medida que se presentan nuevos procesos los cuales necesitan un espacio en memoria 
+  principal y necesitan ser ejecutados. 
+  El numero maximo de procesos es N, pero como maximo solo se permitira la entrada de 10.
+  Se cuenta con 4 particiones fijas, con sus respectivos tamaños: 
+      100k (reservado para el SO)
+      250k (procesos grandes)
+      120k (procesos medianos)
+      60k  (procesos pequeños)
